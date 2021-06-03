@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Patric-h's [sic] prophecy, or, A prognostication of the year 1690 wherein the most considerable mutations and events like to befall the kingdoms of Great Britain, France, and Ireland, and of the states of the Netherlands, &amp;c. are foreshewed.  Also an account of the proceedings of all the twelve months; and of the happy affairs of the King of Great Britain and the states of Holland, and the great damages likely to befall France and Ireland / by J.P. prefessor [sic] of astrology.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43607</idno><idno type="EEBO-CITATION">489260618</idno>
+  <idno type="VID">208664</idno>
+  <idno type="EEBO-PROQUEST">2248521469</idno>
+  
+            <idno type="OCLC"> 489260618</idno>
+            <idno type="OCLC">ocn 489260618</idno>
+            <idno type="STC">Wing P627C</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208664)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Patric-h's [sic] prophecy, or, A prognostication of the year 1690 wherein the most considerable mutations and events like to befall the kingdoms of Great Britain, France, and Ireland, and of the states of the Netherlands, &amp;c. are foreshewed.  Also an account of the proceedings of all the twelve months; and of the happy affairs of the King of Great Britain and the states of Holland, and the great damages likely to befall France and Ireland / by J.P. prefessor [sic] of astrology.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. W. in White-Fryers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Partridge.  Cf.  Wing (2nd ed.).</note>
+                  <note>"Licens'd according to order."</note>
+                  <note>Reproduction of original in: John Johnson Collection.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies (Occultism) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:208664:1"/>
+            <pb facs="tcp:208664:2"/>
+            <p> M<seg rend="sup">r.</seg>
+               <hi>Patric-h's</hi> PROPHECY: OR A Prognostication of the Year 1690.</p>
+            <p>WHEREIN The most considerable Mutations and Events like to befall the Kingdoms of <hi>Great Britain, France,</hi> and <hi>Ireland,</hi> and of the States of the <hi>Netherlands,</hi> &amp;c. are foreshewed.</p>
+            <p>ALSO An Account of the Proceedings of all the Twelve Months; and of the Happy Affairs of the King of <hi>Great Britain,</hi> and the States of <hi>Halland,</hi> and the great Damages likely to be<g ref="char:EOLhyphen"/>fall <hi>France</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>By</hi> J. P. <hi>Prefessor of Astrology.</hi>
+            </p>
+            <p>
+               <hi>Licens'd according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. W.</hi> in <hi>White-Fryers.</hi> 1690.</p>
+            <pb facs="tcp:208664:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="prophecies">
+            <pb n="3" facs="tcp:208664:3"/>
+            <head>
+               <hi>M<seg rend="sup">r.</seg>
+                  <hi>Patric-h's</hi> PROPHECY: OR A Prognostication of the Year</hi> 1690. &amp;c.</head>
+            <p>THat there is an excellent direction for Mis<g ref="char:EOLhyphen"/>chief this Summer, to a Great Person in <hi>Ire<g ref="char:EOLhyphen"/>land, (the Sun to Oppose Jupiter)</hi> which will touch about the middle of <hi>July,</hi> 1690. But in <hi>Zodiaco</hi> it toucheth not until <hi>November</hi> following. That his Friend the French Tyrant hath also this year his <hi>Sun to Square Saturn</hi> in <hi>Zodiaco,</hi> at 52 years and four Months end. But because all Directi<g ref="char:EOLhyphen"/>ons of the Sun do generally touch six Months before the measure of time expires, therefore we may judge the first to Operate most part of the Summer; and this last of the Frenchmans in <hi>July,</hi> when <hi>Saturn</hi> comes to be Sta<g ref="char:EOLhyphen"/>tionary on his Ascendent, and to be in Square to the <hi>Sun.</hi> in <hi>Leo,</hi> on the Radical place of his <hi>Moon.</hi>
+            </p>
+            <p>The face of Affairs is hush and private in most parts of Europe; and that they are in Dehate and Council about things of War and Peace, relating to Nations and Kingdoms, and how they shall be managed when the Season of the year shall point and require Action. And these Debates will be about some Embassador to be sent out, and to be received into a certain Kingdom now in Distress, and in order to reconcile some Differences be<g ref="char:EOLhyphen"/>tween
+<pb n="4" facs="tcp:208664:4"/> Kingdom and Kingdom. But a certain Prince who hath <hi>Saturn</hi> in his Nativity, in exact <hi>Trine</hi> to Mid-heaven, or agreable to the Position of <hi>Saturn,</hi> in <hi>Trine</hi> to Mid-heaven in his Figure shall prosper well in his Affairs; but a certain other King shall be in great Distress and discontent of Mind; and much Damage shall come to the Inhabitants that are subject to the Signs <hi>Virgo</hi> and <hi>Taurus.</hi> But about the beginning of <hi>March,</hi> in Countrys subject to <hi>Aries</hi> and <hi>Libra,</hi> or their Quadrangles, there will be accomplished some design ot action of Violence, so as where Souldiers of diff<g ref="char:EOLhyphen"/>erent Armies are near each other, there will be sudden Attacks, Eruptions and Inroads, made by Enemies into those Countries and Quarters adjoyning.</p>
+            <p>That there shall be committed great Offences in Se<g ref="char:EOLhyphen"/>cret, under pretence of Religion and Conscience, but in<g ref="char:EOLunhyphen"/>deed intended for Rebellion and Disturbance to the Go<g ref="char:EOLhyphen"/>vernment; but these in the end, shall gain perhaps a just and plenary reward. And in the Publick will be Effusion of human Bloud, upon account of the Publick Quarrel, and mischief and discontent among the People, who because they will not be obedient, these things will tend to a far<g ref="char:EOLhyphen"/>ther Mischief. And men pretending to Zeal and Religi<g ref="char:EOLhyphen"/>on, will raise Murmours, and privately and maliciously spread them among the People.</p>
+            <p>There is a great Blessing of advdntage towards, which none but one King of <hi>Europe</hi> can pretend unto, whom <hi>Jupiter</hi> in the Tenth House in <hi>Aries,</hi> in the radical places of their <hi>Sun, Moon, part of Fortune, Mid<g ref="char:EOLhyphen"/>heaven,</hi> and <hi>Horoscope</hi> doth affect: And there is a King in <hi>Europe,</hi> which this Position doth exastly affect. And he and his whole Nation will find the advantage of it, which God of his Mercy grant. Yet the Common sort will have some difference with their Superiors. And per<g ref="char:EOLhyphen"/>haps some Great Man may be Seized, and Committed, or
+<pb n="5" facs="tcp:208664:4"/> Impeached of notorious Crime, or Crimes. There may be some secret and private Caballing and Plotting, for which some of them may come to the Gallows in <hi>October</hi> or <hi>November</hi> following. And many Robberies and Thieve<g ref="char:EOLhyphen"/>ries may follow in the end of these actions. But what is most remarkable, there will be great destruction of Man<g ref="char:EOLhyphen"/>kind where Armies are near; and in next <hi>July</hi> you may expect to hear some effects of that nature. Quarrels and Differences among Great and Noble men, Violence and Confusion among the Common sort; Plundering of Cities Towns, taking Captives, with destruction bloud and ruin.</p>
+            <p>That there is like to be a great Confederacy of <hi>Coin<g ref="char:EOLhyphen"/>ers</hi> and <hi>Clippers,</hi> and other unlawful dealers in Metal; and perhaps the <hi>French</hi> Tyrant<hi>'s</hi> Worship may do somthing to quadrate with this Conjunction. (2.) There may be a <hi>Plot,</hi> but whether it shall be of the First or Se<g ref="char:EOLhyphen"/>cond sort of People, they are sure to be Punished for their Vilany according to their deserts.</p>
+            <div type="prophecies_by_month">
+               <head>
+                  <hi>The observations of the</hi> 12 <hi>Months.</hi>
+               </head>
+               <p>
+                  <hi>JAnuary.</hi> This Month not cast out for Action or pub<g ref="char:EOLhyphen"/>lick Business, it is crowned to purpose with private Consultations. A Ground-work for some new Eruptions, or Differences in <hi>Germany,</hi> and the Countries East<g ref="char:EOLhyphen"/>wards. Some Conferrences or Treaties by Commissioners, or Ambassadors, about settling affairs and differences of those States and Princes to whom they belong. The end of this Month, or beginning of the next, will undoubtedly introduce something of Violence, or violent Actions, or perhaps private Murthers.</p>
+               <p>
+                  <hi>February.</hi> This Month crys Bloud, Bloud, as it were some Warlike Musick sounding an Allarum. And not unlikely <hi>Teague-land</hi> Rebells may pay for it. Des<g ref="char:EOLhyphen"/>ruction, Mischief and Ruin, and expence of much Bloud
+<pb n="6" facs="tcp:208664:5"/> also, and this in <hi>Ireland.</hi> And I think a Popish <hi>Rlot</hi> a brewing. Towards the Months end, we may hear of the taking some Towns, Castles, <hi>&amp;c.</hi> by Surprize; and the Destruction of some others; attended by some Fight, or brisk Action by Land. A deserving Person Preferr'd and others turned out. <hi>Saturn</hi> looks Sowerly upon the <hi>French</hi> King, and sends him loss of Honour, Treachery and ill Success.</p>
+               <p>
+                  <hi>March.</hi> Mighty Councils shewn in the Month of <hi>March.</hi> A wet and foul Season. Death and destruction of Common People, by War and Sedition. A Consult of great and considerable Affairs; and methinks it looks untowardly, and with on angry Face towards the Do<g ref="char:EOLhyphen"/>minion of <hi>France.</hi> What think you of an Association there to give him a Remove? 'Tis probable, if that Peo<g ref="char:EOLhyphen"/>ple have but Courage. It cannot kill him, but I presume it will give him a defect answerable to his Merit.</p>
+               <p>
+                  <hi>April.</hi> Great and eminet Service done to the Affairs of <hi>Great Britain</hi> and its Government. Now some <hi>Plot</hi> discovered, and some of considerable Note therein concer<g ref="char:EOLhyphen"/>ned, and perhaps some taken defacing the King's Coin, or some unlawful practice about it. Some considerable Action by Sea, or Land, the early of the year; and most probably by Sea. Danger of Death to a Great Lady. Danger of Death by Gout, to some Eminent Great Man; and loss of Hononr to others. <hi>Ireland</hi> not ye Reduced, it goes very bad with those Rebels at this time, both by Want and Destruction.</p>
+               <p>
+                  <hi>May.</hi> The Season is ripe for Action now, and those whose imployment leads them to be concerned therein, seem ready, brave, bold and resolute Men. The <hi>Dutch</hi> are promised great advontage of Success both by Sea and Land against theirs and Europes Enemies; and so is <hi>England</hi> too, but not like them. But <hi>Ireland</hi> is in a bad condition, and the Rebels therein: The Country Ruined by those ru<g ref="char:EOLhyphen"/>inous
+<pb n="7" facs="tcp:208664:5"/> courses they have so long lain under. Some Cities and Castles both distressed and delivered, after some Contest, and dispute about Conditions. And the <hi>French</hi> Tyrant ill and out of order, partly with Melancholy, fretting and vexing, and partly his old Disease.</p>
+               <p>
+                  <hi>June.</hi> Beware <hi>London,</hi> this Month bespeaks some difference among the Governors, or some discontent about Preceedency and Order. It will be short and easily accom<g ref="char:EOLhyphen"/>modated. A Souldier for his Merit receiveth considerable Honour and Preferment: But I think he will not long keep it, without some blemish by ill report; and it will be well if he shall not deserve it too. However. at the Month's entring there is great probability of some Mar<g ref="char:EOLhyphen"/>tial action considerable. Great Anxiety, Mischief, and trou<g ref="char:EOLhyphen"/>ble of mind, shall befall seme King in <hi>Ireland;</hi> and his Subjects will not be Obedient; and there will be many and great Thefts.</p>
+               <p>
+                  <hi>July.</hi> The French King frets and fumes to see himself crost in his designs and enterprizes: But let me tell him, it will be worse with him yet. <hi>Holland</hi> and <hi>Scotland</hi> are to have good Success, especially the former, who will be blest with considerable advantage upon the troubler of Europe, and of his Accomplices. <hi>England</hi> also must have a share in these Actions. Honour attends the Law and Lawyers, and advanceth the Interest of <hi>England:</hi> And now look for Forreign Ambassadors, and Compliments to the King of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>August.</hi> The bloud of Europe craves revenge upon the <hi>Gallick</hi> Tyrant. Great Intelligence flyes about from King<g ref="char:EOLhyphen"/>dom, to Kingdom, and very considerable, but not very welcom to some, though much concerned in it. Now two Kings vexing each other, and judge, for they are in a miseradle condition of Vexation and Misery. Various Re<g ref="char:EOLhyphen"/>ports because of whipping work at hand.</p>
+               <p>
+                  <hi>September.</hi> Now Fighting and Courage, falling and
+<pb n="8" facs="tcp:208664:6"/> running away. Arms and Violence, the effects of Rage and Vengeance. Blood and Destruction of Mankind. <hi>France</hi> is threatned with Invasion, or Insurrection in her own Bowels, to deliver from the Burthen of Tyranny. For a King shall do much mischief to the People, and it will be true. <hi>England</hi> and its King rarely favoured, all this Year, and particularly this Month, the affairs of <hi>France</hi> go ill in all parts, concerned either as Principal or Assistant. And so let it continue with them.</p>
+               <p>
+                  <hi>October.</hi> This Month will be as violent as any in the Year; violence of Divers kinds where Armies are near. More Murthers and attempts of Murthers, in this than in any Month of the year; and in <hi>England</hi> as well as elsewhere▪ <hi>England</hi> has welcom News from the East parts of the World, and her Allies in those parts.</p>
+               <p>
+                  <hi>November.</hi> In this Month, those who have caused much Bloudshed in Europe, will be enclined to Peace, if it may be attained. Now Armies begin to retire, and yet at parting, some Town or Principality, either Seized or delivered up, without much loss of Bloud. The French Tyrants Councils are divided, his mind disturbed, being uneasie under present Affairs: And suddenly after wretch<g ref="char:EOLhyphen"/>ed effects shall befall him, and put him upon some action that will be an advance unto his Enemies.</p>
+               <p>
+                  <hi>December.</hi> War and much Bloud spilt, and much Ague and Feaver in the French King's Territories. Let him look after the Particulars, for he will feel a large share thereof. Great news from some Territories of <hi>France;</hi> that King still sues for Peace, but it hardly takes: Some Petticoat Ambassadors in the work too. Difference be<g ref="char:EOLhyphen"/>tween a Clergy man and a Courtier, but soon ended.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
